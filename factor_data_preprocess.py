@@ -9,6 +9,15 @@ import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
+#code : windcode
+#name : secname
+#ipo_date : ipo_date
+#industry_zx : industry_citic
+#industry_sw : industry_sw
+#MKT_CAP_FLOAT : mkt_cap_float
+#is_open1 : trade_status
+#PCT_CHG_NM : pct_chg_1m
+
 info_cols = ['code', 'name', 'ipo_date', 'industry_zx', 
              'industry_sw', 'MKT_CAP_FLOAT', 
              'is_open1', 'PCT_CHG_NM']
